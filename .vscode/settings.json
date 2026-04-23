@@ -1,0 +1,6 @@
+{
+    "markdown.marp.themes": [
+        "./resume-marp.css"
+    ],
+    "markdown.marp.html": "all"
+}

@@ -1,0 +1,67 @@
+/* @theme resume-marp */
+
+section {
+    width: 1240px;
+    height: 1754px;
+    font-size: 20px;
+    padding: 60px;
+    font-family: 'Times New Roman';
+}
+
+h1 {
+    color: #111;
+    font-size: 36px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+h2 {
+    color: #222;
+    font-size: 26px;
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+}
+
+h3 {
+    color: #333;
+    font-size: 24px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+h4 {
+    color: #444;
+    font-size: 22px;
+    margin-top: 0px;
+    margin-bottom: -20px;
+}
+
+/* career periods */
+h4+p {
+    font-size: 18px;
+    text-align: right;
+    font-family: monospace;
+    margin-top: -24px;
+    margin-bottom: 0px;
+}
+
+li {
+    margin-top: -15px;
+    margin-bottom: 0px;
+}
+
+h5 {
+    color: #555;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+h6 {
+    color: #666;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
