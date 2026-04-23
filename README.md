@@ -4,6 +4,8 @@ You can preview your markdown resume/CV and export PDF using [Marp for VS Code](
 
 This way, you can manage the versions of your resume content separated from the style.
 
+![](screenshot.png)
+
 ## How to use
 
 1. Install [Marp for VS Code](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode) to VS Code or its compatible forks like Cursor and Antigravity.
