@@ -10,7 +10,7 @@ This way, you can manage the versions of your resume content separated from the 
 
 1. Install [Marp for VS Code](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode) to VS Code or its compatible forks like Cursor and Antigravity.
 
-2. Fork this repo and clone to your local machine.
+2. Fork this repo, clone to your local machine, and open in VS Code (`code marp-resume`).
 
 3. Open `Resume.md`.
 
@@ -26,6 +26,13 @@ Modify: `Resume.md`.
 
 Modify: `resume-marp.css`.
 
-## Related repo
+## Related repos
+
+### Alternative style
+
+You may also like this Resume style: https://github.com/Octobug/marp-vscode-resume
+
+### Alternative tool
 
 If you want to generate resume PDFs using pandoc, see: https://github.com/vidluther/markdown-resume
+
